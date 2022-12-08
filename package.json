@@ -13,7 +13,7 @@
   "dependencies": {
     "promise": "*",
     "bindings": "*",
-    "nan": "^2.14.2",
+    "nan": "^2.8.0",
     "bignum": "^0.13.1",
     "sha3": "*",
     "base58-native": "*",
